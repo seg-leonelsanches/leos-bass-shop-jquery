@@ -1,6 +1,6 @@
 # Leo's Bass Guitar Shop Front-end, in jQuery
 
-This is a front-end for the [Leo's Bass Guitar Shop](), API written in Python.
+This is a front-end for the [Leo's Bass Guitar Shop](https://github.com/seg-leonelsanches/leos-music-shop-api-python), API written in Python.
 
 ## Motivation
 
